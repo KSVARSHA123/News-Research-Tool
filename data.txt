@@ -1,0 +1,78 @@
+What is artificial intelligence?
+Artificial intelligence (AI) is the theory and development of computer systems capable of performing tasks that historically required human intelligence, such as recognizing speech, making decisions, and identifying patterns. AI is an umbrella term that encompasses a wide variety of technologies, including machine learning, deep learning, and natural language processing (NLP). 
+
+Although the term is commonly used to describe a range of different technologies in use today, many disagree on whether these actually constitute artificial intelligence. Instead, some argue that much of the technology used in the real world today actually constitutes highly advanced machine learning that is simply a first step towards true artificial intelligence, or “general artificial intelligence” (GAI).
+
+Yet, despite the many philosophical disagreements over whether “true” intelligent machines actually exist, when most people use the term AI today, they’re referring to a suite of machine learning-powered technologies, such as Chat GPT or computer vision, that enable machines to perform tasks that previously only humans can do like generating written content, steering a car, or analyzing data. 
+
+Artificial intelligence examples 
+Though the humanoid robots often associated with AI (think Star Trek: The Next Generation’s Data or Terminator’s  T-800) don’t exist yet, you’ve likely interacted with machine learning-powered services or devices many times before. 
+
+At the simplest level, machine learning uses algorithms trained on data sets to create machine learning models that allow computer systems to perform tasks like making song recommendations, identifying the fastest way to travel to a destination, or translating text from one language to another. Some of the most common examples of AI in use today include: 
+
+ChatGPT: Uses large language models (LLMs) to generate text in response to questions or comments posed to it. 
+
+Google Translate: Uses deep learning algorithms to translate text from one language to another. 
+
+Netflix: Uses machine learning algorithms to create personalized recommendation engines for users based on their previous viewing history. 
+
+Tesla: Uses computer vision to power self-driving features on their cars. 
+
+AI in the workforce
+Artificial intelligence is prevalent across many industries. Automating tasks that don't require human intervention saves money and time, and can reduce the risk of human error. Here are a couple of ways AI could be employed in different industries:
+
+Finance industry. Fraud detection is a notable use case for AI in the finance industry. AI's capability to analyze large amounts of data enables it to detect anomalies or patterns that signal fraudulent behavior.
+
+Health care industry. AI-powered robotics could support surgeries close to highly delicate organs or tissue to mitigate blood loss or risk of infection.
+
+What is artificial general intelligence (AGI)? 
+Artificial general intelligence (AGI) refers to a theoretical state in which computer systems will be able to achieve or exceed human intelligence. In other words, AGI is “true” artificial intelligence as depicted in countless science fiction novels, television shows, movies, and comics. 
+
+As for the precise meaning of “AI” itself, researchers don’t quite agree on how we would recognize “true” artificial general intelligence when it appears. However, the most famous approach to identifying whether a machine is intelligent or not is known as the Turing Test or Imitation Game, an experiment that was first outlined by influential mathematician, computer scientist, and cryptanalyst Alan Turing in a 1950 paper on computer intelligence. There, Turing described a three-player game in which a human “interrogator” is asked to communicate via text with another human and a machine and judge who composed each response. If the interrogator cannot reliably identify the human, then Turing says the machine can be said to be intelligent [1]. 
+
+To complicate matters, researchers and philosophers also can’t quite agree whether we’re beginning to achieve AGI, if it’s still far off, or just totally impossible. For example, while a recent paper from Microsoft Research and OpenAI argues that Chat GPT-4 is an early form of AGI, many other researchers are skeptical of these claims and argue that they were just made for publicity [2, 3].
+
+Regardless of how far we are from achieving AGI, you can assume that when someone uses the term artificial general intelligence, they’re referring to the kind of sentient computer programs and machines that are commonly found in popular science fiction. 
+
+Strong AI vs. Weak AI
+When researching artificial intelligence, you might have come across the terms “strong” and “weak” AI. Though these terms might seem confusing, you likely already have a sense of what they mean. 
+
+Strong AI is essentially AI that is capable of human-level, general intelligence. In other words, it’s just another way to say “artificial general intelligence.” 
+
+Weak AI, meanwhile, refers to the narrow use of widely available AI technology, like machine learning or deep learning, to perform very specific tasks, such as playing chess, recommending songs, or steering cars. Also known as Artificial Narrow Intelligence (ANI), weak AI is essentially the kind of AI we use daily.
+
+The 4 Types of AI 
+As researchers attempt to build more advanced forms of artificial intelligence, they must also begin to formulate more nuanced understandings of what intelligence or even consciousness precisely mean. In their attempt to clarify these concepts, researchers have outlined four types of artificial intelligence.
+
+Here’s a summary of each AI type, according to Professor Arend Hintze of the University of Michigan [4]: 
+
+1. Reactive machines
+Reactive machines are the most basic type of artificial intelligence. Machines built in this way don’t possess any knowledge of previous events but instead only “react” to what is before them in a given moment. As a result, they can only perform certain advanced tasks within a very narrow scope, such as playing chess, and are incapable of performing tasks outside of their limited context. 
+
+2. Limited memory machines
+Machines with limited memory possess a limited understanding of past events. They can interact more with the world around them than reactive machines can. For example, self-driving cars use a form of limited memory to make turns, observe approaching vehicles, and adjust their speed. However, machines with only limited memory cannot form a complete understanding of the world because their recall of past events is limited and only used in a narrow band of time. 
+
+3. Theory of mind machines
+Machines that possess a “theory of mind” represent an early form of artificial general intelligence. In addition to being able to create representations of the world, machines of this type would also have an understanding of other entities that exist within the world. As of this moment, this reality has still not materialized. 
+
+4. Self-aware machines
+Machines with self-awareness are the theoretically most advanced type of AI and would possess an understanding of the world, others, and itself. This is what most people mean when they talk about achieving AGI. Currently, this is a far-off reality. 
+
+AI benefits and dangers
+AI has a range of applications with the potential to transform how we work and our daily lives. While many of these transformations are exciting, like self-driving cars, virtual assistants, or wearable devices in the healthcare industry, they also pose many challenges.
+
+It’s a complicated picture that often summons competing images: a utopia for some, a dystopia for others. The reality is likely to be much more complex. Here are a few of the possible benefits and dangers AI may pose: 
+
+Potential Benefits	Potential Dangers
+Greater accuracy for certain repeatable tasks, such as assembling vehicles or computers.	Job loss due to increased automation.
+Decreased operational costs due to greater efficiency of machines.	Potential for bias or discrimination as a result of the data set on which the AI is trained.
+Increased personalization within digital services and products.	Possible cybersecurity concerns.
+Improved decision-making in certain situations.	Lack of transparency over how decisions are arrived at, resulting in less than optimal solutions.
+Ability to quickly generate new content, such as text or images.	Potential to create misinformation, as well as inadvertently violate laws and regulations.
+These are just some of the ways that AI provides benefits and dangers to society. When using new technologies like AI, it’s best to keep a clear mind about what it is and isn’t. With great power comes great responsibility, after all. 
+
+Read more: AI Ethics: What It Is and Why It Matters
+Build AI skills on Coursera
+Artificial Intelligence is quickly changing the world we live in. If you’re interested in learning more about AI and how you can use it at work or in your own life, consider taking a relevant course on Coursera today. 
+
+In DeepLearning.AI’s AI For Everyone course, you’ll learn what AI can realistically do and not do, how to spot opportunities to apply AI to problems in your own organization, and what it feels like to build machine learning and data science projects. 
